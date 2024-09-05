@@ -1,1 +1,1 @@
-MedPredictor
+DiagnoseMe
